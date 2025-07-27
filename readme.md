@@ -13,5 +13,22 @@
 <img src="https://i.pinimg.com/736x/0e/b8/98/0eb898b81e5202a244e1663a9c433cbc.jpg">
 </div>
 
-Not complete for production purposes
+Not for production purposes
 Only for hobby purposes!!
+
+## SAMPLE
+```gvoid
+num x = 10;
+num y = 20;
+str nama = "aji sptr";
+str ngapain = "nganggur bos";
+
+for (num i = 0; i < 10; i++)
+{
+    print(i);
+}
+
+print(x + y);
+print(nama);
+print(ngapain);
+```
