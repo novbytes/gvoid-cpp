@@ -1,0 +1,8 @@
+num x = 10;
+num y = 20;
+str nama = "aji sptr";
+str ngapain = "nganggur bos";
+
+print(x + y);
+print(nama);
+print(ngapain);
